@@ -100,7 +100,7 @@ jobs:
       uses: docker/login-action@v2
       with:
         registry: ghcr.io
-        username: wangbi123
+        username: 1360584931@qq.com
         password: Wangbi123
         
     - name: Clone Source Code
